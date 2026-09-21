@@ -23,7 +23,7 @@ browser_mode = "ask"
 
 name = input("Hello, what your name?\n")
 
-print("Hello", name, "\n",)
+print("Hello!", name, "~ \n",)
 
 languages = {
   "english": "https://archlinux.org/",
@@ -54,7 +54,7 @@ while True:
 
      
   else :
-   print("[ERROR1002], incorrect mode\n")
+   print("[ERROR:1002], incorrect mode\n")
    break
 
 
